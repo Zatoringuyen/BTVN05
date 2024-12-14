@@ -1,0 +1,10 @@
+D:\C#\THLTW\Lab03\Lab03_02\bin\Debug\Lab03_02.exe.config
+D:\C#\THLTW\Lab03\Lab03_02\bin\Debug\Lab03_02.exe
+D:\C#\THLTW\Lab03\Lab03_02\bin\Debug\Lab03_02.pdb
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.csproj.AssemblyReference.cache
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.Lab03_02.resources
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.csproj.GenerateResource.cache
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.csproj.CoreCompileInputs.cache
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.exe
+D:\C#\THLTW\Lab03\Lab03_02\obj\Debug\Lab03_02.pdb
